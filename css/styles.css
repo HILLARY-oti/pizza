@@ -17,3 +17,6 @@
   width: 25%;
   text-align: center;
 }
+.navbar a.active {
+  color: black;
+}
