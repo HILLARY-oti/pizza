@@ -24,3 +24,11 @@
   color: purple;
   text-align: center;
 }
+.info img {
+  float: right;
+}
+.info p {
+  float: left;
+  text-align: center;
+  color: coral;
+}
