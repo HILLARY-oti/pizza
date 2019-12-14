@@ -29,7 +29,10 @@
   size: 50%;
 }
 .info p {
-  color: coral;
+  color: rgb(217, 255, 0);
+  text-align: right;
+  text-shadow: crimson;
+  font-size: xx-large;
 }
 .info {
   background-image: url(pizza-menu-chalkboard-background_1284-11715.jpg);
