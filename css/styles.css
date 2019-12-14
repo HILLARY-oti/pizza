@@ -25,10 +25,13 @@
   text-align: center;
 }
 .info img {
-  float: right;
   margin: 50px;
+  size: 50%;
 }
 .info p {
-  float: left;
   color: coral;
+}
+.info {
+  background-image: url(pizza-menu-chalkboard-background_1284-11715.jpg);
+  background-size: cover;
 }
