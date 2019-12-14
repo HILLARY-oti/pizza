@@ -26,9 +26,9 @@
 }
 .info img {
   float: right;
+  margin: 50px;
 }
 .info p {
   float: left;
-  text-align: center;
   color: coral;
 }
