@@ -12,7 +12,14 @@ $(function () {
 
     //Function order
     let order = (f, s, c, t, n, total) => {
-      return { f, s, c, t, n, total };
+      return {
+        f,
+        s,
+        c,
+        t,
+        n,
+        total
+      };
     };
 
     //check price
@@ -138,7 +145,7 @@ $(function () {
             break;
         }
         break;
-      case flavour = "bbq":
+      case flavour = "Steak":
         switch (size) {
           case size = "regular":
             price = 300;
@@ -388,12 +395,12 @@ $(function () {
     $('.delivernot').show(1000);
 
     $('#list').text(" ");
-    $("#list").append("<br>" + "Flavour :   " + newOrder.f + "<br>" + "Size :   "
-      + newOrder.s + "<br>" + "Crust :     "
-      + newOrder.c + "<br>" + "Toppings :     "
-      + newOrder.t + "<br>" + " Number of pizzas :    "
-      + newOrder.n + "<br>" + "Total Price :  "
-      + newOrder.total + "<br><br>").css('font-family', 'system-ui').css('font-size', '24px');
+    $("#list").append("<br>" + "Flavour :   " + newOrder.f + "<br>" + "Size :   " +
+      newOrder.s + "<br>" + "Crust :     " +
+      newOrder.c + "<br>" + "Toppings :     " +
+      newOrder.t + "<br>" + " Number of pizzas :    " +
+      newOrder.n + "<br>" + "Total Price :  " +
+      newOrder.total + "<br><br>").css('font-family', 'system-ui').css('font-size', '24px');
   });
 
   //Deliver
