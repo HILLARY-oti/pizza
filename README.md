@@ -13,14 +13,6 @@ This is a project of a Pizza ordering site.
 ## Project setup and Instructions
 Open my github repository
 click on the live link to view the project/pizza.
-## Link to site
-This is a live link to my site.# MY PORTFOLIO
-This is my portfolio, this is a website were it will show my introduction to programing.
-## AUthor
-Hillary Otieno.
-## Technologies used
-1 Html
-2 css
 ## Description of the project
 This is a project of my own portfolio of the introduction to programing.
 ## Project setup and Instructions
