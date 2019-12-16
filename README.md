@@ -8,6 +8,9 @@ Hillary Otieno.
 3 javascript
 4 Jquery
 5 bootstrapcss
+##Code Beat
+[![codebeat badge](https://codebeat.co/badges/46af4eee-02fe-4a67-ae65-17669cb6833b)](https://codebeat.co/projects/github-com-hillary-oti-pizza-master)
+
 ## Description of the project
 This is a project of a Pizza ordering site.
 ## Project setup and Instructions
